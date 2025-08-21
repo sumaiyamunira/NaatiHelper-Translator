@@ -18,7 +18,7 @@ NaatiHelper is an Android app designed to help Bengali–English language learne
 
 
 ## Demo
-![App Screenshot](app_screenshot.jpg)
+![App Screenshot](app_screenshot_1.jpg)
 ![App Screenshot](app_screenshot_2.jpg)
 
 
