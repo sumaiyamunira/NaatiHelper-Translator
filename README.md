@@ -19,7 +19,6 @@ NaatiHelper is an Android app designed to help Bengali–English language learne
 
 ## Demo
 ![App Screenshot](app_screenshot_1.jpg)
-![App Screenshot](app_screenshot_2.jpg)
 
 
 ## Installation
@@ -32,6 +31,9 @@ NaatiHelper is an Android app designed to help Bengali–English language learne
 4. Add your API key to the project: val GEMINI_API_KEY = "YOUR_API_KEY_HERE"
 
 5. Build and run the app on an emulator or physical device.
+
+![App Screenshot](app_screenshot_2.jpg)
+
 
 ## Contribution
 This project is open source! Contributions and feedback are welcome:
